@@ -1,0 +1,70 @@
+body
+{
+    background: url('Cover.jpg') no-repeat center / contain;
+}
+.book
+{
+    
+    padding-left: 600;
+    padding-right: 600;
+}
+.cover
+{
+    color:black
+}
+.colour
+{
+    color:navy
+}
+span
+{
+    background-color: lightgreen;
+}
+
+.box
+{
+    padding-left: 600;
+    padding-right: 600;
+    padding: 10px;
+    margin: 25;
+    background-color: rgb(233, 10, 21);
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.foot
+{
+    padding-left: 30;
+    padding-right: 40;
+    padding: 100px;
+    margin: 10 ;
+    background-color: red;
+    
+}
+.about
+{
+    padding-left: 600;
+    padding-right: 600;
+    padding-top: 600;
+    padding-bottom: 400;
+    padding: 10px;
+    margin: 08 ;
+}
+
+.box2
+{
+    padding-left: 700;
+    padding-right: 700;
+    position: fixed;
+    
+    padding: 0;
+    background-color: rgb(93, 27, 216);
+
+}
+
+.TEXT{
+ 
+
+}
